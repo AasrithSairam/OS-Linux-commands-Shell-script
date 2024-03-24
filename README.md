@@ -30,7 +30,7 @@ s.n. dasgupta
 sumit chakrobarty
 ^d
 ```
-cat > file2                                                                                                                                                                                                                                                               .
+cat > file2                                                                                                                                                                                                                                                               
 ```
 anil aggarwal
 barun sengupta
