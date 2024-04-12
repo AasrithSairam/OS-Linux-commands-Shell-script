@@ -1,3 +1,5 @@
+# name: ponguru aasrith sairam
+# reg. no: 212223240116
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
